@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aishjahan Khan</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+<h3 align="center">A passionate Full stack developer from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/aishjahan" target="blank"><img src="https://img.shields.io/twitter/follow/aishjahan?logo=twitter&style=for-the-badge" alt="aishjahan" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently a **Full stack developer**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/aishjahankhan?utm_source=linktree_admin_share](https://linktr.ee/aishjahankhan?utm_source=linktree_admin_share)
 
-- 💬 Ask me about **Html, CSS ,JavaScript , Node.js , Express.js**
+- 💬 Ask me about **Html, CSS ,JavaScript , Node.js , Express.js, React.js , MongoDB**
 
 - 📫 How to reach me **aishjahankhan7376@gmail.com**
 
