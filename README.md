@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently a **Data Science Enthusiast**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/aishjahankhan?utm_source=linktree_admin_share](https://linktr.ee/aishjahankhan?utm_source=linktree_admin_share)
+- 👨‍💻  [Portfolio](https://aishjahankhan-portfolio.vercel.app/)
 
 - 💬 Ask me about **Machine Learning, Deep Learning and Data Science**
 
